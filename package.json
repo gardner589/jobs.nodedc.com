@@ -26,6 +26,6 @@
     "gulp-sourcemaps": "^1.5.2",
     "react": "^0.13.3",
     "reactify": "^1.0.0",
-    "vinyl-source-stream": "^1.0.0"
+    "vinyl-source-stream": "^2.0.0"
   }
 }
