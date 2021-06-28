@@ -22,7 +22,7 @@
     "browserify": "^11.0.1",
     "gulp": "^3.8.10",
     "gulp-nodemon": "^2.0.3",
-    "gulp-sass": "^2.0.4",
+    "gulp-sass": "^5.0.0",
     "gulp-sourcemaps": "^1.5.2",
     "react": "^0.13.3",
     "reactify": "^1.0.0",
